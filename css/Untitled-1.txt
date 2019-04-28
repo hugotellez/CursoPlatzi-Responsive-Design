@@ -1,0 +1,122 @@
+   <section class="hero">
+       <div class="container2">
+           
+            <h1> Soy <strong> Hugo Tellez Gomez </strong> <br> ingeniero <strong>informatico</strong>  con <br>pasion por  <strong>aprender</strong></h1>
+    
+
+        </div>
+    </section>
+   
+    <section id="portfolio" class="portfolio">
+        
+        <div class="container">
+ <h2>Portafolios (Proyectos Destacados) </h2>
+                <article class="project">  
+                        <div class="project-details">
+                            <h3 class="projec-title">Diplomado: Internet de las cosas (IoT)</h3>
+                            <h6 class="project-course">Universidad Libre Seccional Cali</h6>
+                
+                            <p class="project-date"><small> <strong>Fecha: </strong>Septiembre/2018</small></p>
+                            
+                            <!-- <p><small> <strong>Puedes verlo en </strong> https://www.youtube.com/watch?v=zFsiMzpaejs  </small></p> -->
+                           
+                            <p class="project-description" >La internet de las cosas (IoT, por sus siglas en inglés) es un sistema de dispositivos de computación interrelacionados, máquinas mecánicas
+                                 y digitales, objetos, animales o personas que tienen identificadores únicos y la capacidad de transferir datos a través de una red, sin requerir de interacciones humano a humano o humano a computadora.</p>
+                        </div>
+                        <figure> <img src="images/diplomado iot.jpg" alt="imagen sumobot" width="500" height="400"></figure>
+                           
+                        
+                        </article>
+                
+                        
+
+
+            
+        </div>
+ 
+                    
+              
+             
+
+   </section >
+    <div class="container">
+        
+    <h2 class="event-list-title">Más sobre mi experiencia</h2>
+    </div>
+    <section id="experiencia" class="experiencia">
+    <div class="container">
+        <article class="event">
+            <figure class="event-imageContainer">
+                <img class="event-image" src="images/desarrolloweb.PNG" alt="Imagen diploma cursoweb" width="500" height="400">
+            </figure>
+        <div class="event-detail">
+            <h3 class="event-title"> Curso </h3>
+            <p class="event-description">Desarrollo Web Online </p>
+            <a href="https://www.youtube.com/watch?v=dTDCMcCORNI" class="event-url"></a>
+        </div>
+        </article>
+
+        <article class="event">
+            <figure class="event-imageContainer">
+                <img class="event-image" src="images/1.jpg" alt="Imagen diploma" width="500" height="400">
+            </figure>
+        <div class="event-detail">
+            <h3 class="event-title">Cisco Networking Academy</h3>
+            <p class="event-description">IT Essentials</p>
+            <a href="youtube.com" class="event-url"></a>
+        </div>
+        </article>
+
+        
+        <article class="event">
+            <figure class="event-imageContainer">
+                <img class="event-image" src="images/2.jpg" alt="Imagen video" width="500" height="400">
+            </figure>
+        <div class="event-detail">
+            <h3 class="event-title">Cisco Networking Academy</h3>
+            <p class="event-description">Datos masivos y analítica de  Cisco Networking Academy</p>
+            <a href="youtube.com" class="event-url"></a>
+        </div>
+        </article>
+        <article class="event">
+                    <figure class="event-imageContainer">
+                        <img class="event-image" src="images/0001(2).jpg" alt="Imagen video" width="500" height="400">
+                    </figure>
+                <div class="event-detail">
+                    <h3 class="event-title">Cisco Networking Academy</h3>
+                    <p class="event-description">Conexión de cosas de Cisco </p>
+                    <a href="youtube.com" class="event-url"></a>
+                </div>
+                </article>
+
+    </div>
+    </section>
+
+
+
+   <section id="creamosAlgo" class="creamosAlgo">
+        <form action="images/hola.html" class="form-email">
+            <h3>¿Creamos algo juntos?</h3>
+            <input type="text" placeholder="Dejame tu email"  name="nombre">
+            <button>Enviar</button>
+        </form>
+       <div class="social">
+          
+           <a href="https://www.facebook.com/hugoalexander.tellezgomez" class="social-link facebook"></a>
+           <a href="" class="social-link github"></a>
+           <a href="https://www.instagram.com/hugoalexandertellez/" class="social-link instagram"></a>
+           <a href="" class="social-link twitter" ></a>
+    </div>
+   </section>
+
+   <br>
+ <footer id="juntos" class="footer">
+   
+   <div> 
+       
+    <img src="images/circuito.png" alt="logo circuito" width="50px" height="50px"></div>
+   
+    <div>Pagina Web  Realizada por  <a href="https://www.facebook.com/hugoalexander.tellezgomez" >Hugo Tellez Gomez </a> </div>
+   
+   <div>Agradecimientos: Icons made by <a href="https://www.flaticon.es/autores/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.es/" 		    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 		    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+ </footer>
